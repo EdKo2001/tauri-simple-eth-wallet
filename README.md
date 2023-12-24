@@ -5,6 +5,8 @@
 
 - [Introduction](#introduction)
 
+- [Demo](#demo)
+
 - [Prerequisites](#prerequisites)
 
 - [Installation](#installation)
@@ -16,6 +18,11 @@
 ## Introduction
 
 Welcome to the Wallet Dashboard Application! This application allows users to view their Ethereum (ETH) balance associated with their wallet.
+
+## Demo
+<p align="center">
+    <img align="center" src="https://github.com/EdKo2001/tauri-simple-eth-wallet/assets/53624093/240fbfff-f1fe-4d18-9c2d-dceca768c2af">
+</p>
 
 ## Prerequisites
 
