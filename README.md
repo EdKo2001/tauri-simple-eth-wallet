@@ -1,3 +1,4 @@
+
 # Wallet Dashboard Application
 
 ## Table of Contents
@@ -5,8 +6,6 @@
 - [Introduction](#introduction)
 
 - [Prerequisites](#prerequisites)
-
-- [Getting Started](#getting-started)
 
 - [Installation](#installation)
 
@@ -31,13 +30,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-
-
-
 git  clone  https://github.com/EdKo2001/tauri-simple-eth-wallet
-
-
-
 ```
 
 2. Navigate to the project directory:
