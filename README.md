@@ -42,7 +42,7 @@ git  clone  https://github.com/EdKo2001/tauri-simple-eth-wallet
 
 2. Navigate to the project directory:
 
-`cd wallet-dashboard`
+`cd tauri-simple-eth-wallet`
 
 3. Install dependencies:
 
